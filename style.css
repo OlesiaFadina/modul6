@@ -80,22 +80,22 @@ label {
   flex: 1;
   }
 .one {
-  background-image: url('1.jpg');
+  background-image: url('./image/1.jpg');
 }
 .two {
-  background-image: url('2.jpg');
+  background-image: url('./image/2.jpg');
 }
 .three {
-  background-image: url('3.jpg');
+  background-image: url('./image/3.jpg');
 }
 .four {
-  background-image: url('4.jpg');
+  background-image: url('./image/4.jpg');
 }
 .five {
-  background-image: url('5.jpg');
+  background-image: url('./image/5.jpg');
 }
 .six {
-  background-image: url('6.jpg');
+  background-image: url('./image/6.jpg');
 }
 @media all and (max-width: 800px){
 
